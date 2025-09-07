@@ -1,0 +1,4 @@
+.venv/
+src/.env
+.python-version
+src/__pycache__
